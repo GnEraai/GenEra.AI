@@ -1,3 +1,6 @@
+<html>
+<body>
+
 <p align="center">
   <img src="https://ibb.co/NgmQ3hZb" width="200" alt="GenEra Logo"/>
 </p>
@@ -51,3 +54,5 @@ Where technology, intelligence, and humanity merge into one.
 ---
 
 <p align="center"><b>GenEra — The Architecture of the Future.</b></p>
+</body>
+</html>
