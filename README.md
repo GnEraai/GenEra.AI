@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-link-here.png" width="200" alt="GenEra Logo"/>
+  <img src="https://ibb.co/NgmQ3hZb" width="200" alt="GenEra Logo"/>
 </p>
 
 <h1 align="center">GenEra | The Infrastructure for Digital Life</h1>
